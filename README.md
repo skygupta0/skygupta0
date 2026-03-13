@@ -12,7 +12,7 @@
 - 💻 Frontend Developer with **2 years experience**
 - ⚡ Working with **Angular, React, TypeScript**
 - 🌱 Currently learning **Node.js**
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **skygupta0@gmail.com**
 
 ---
 
