@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @skygupta0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Akash Gupta</h1>
+<h3 align="center">Frontend Developer | Angular | React | TypeScript</h3>
 
-<!---
-skygupta0/skygupta0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=skygupta0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 Frontend Developer with **2 years experience**
+- ⚡ Working with **Angular, React, TypeScript**
+- 🌱 Currently learning **Node.js**
+- 📫 Reach me: **your-email@gmail.com**
+
+---
+
+### 🚀 Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,git,github,firebase,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=skygupta0&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skygupta0&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
